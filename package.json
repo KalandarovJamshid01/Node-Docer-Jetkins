@@ -1,0 +1,30 @@
+{
+  "name": "node-docer-jetkins",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KalandarovJamshid01/Node-Docer-Jetkins.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.14.0",
+    "http-errors": "^1.7.0",
+    "mysql": "^2.10.2"
+  },
+  "devDependencies": {
+    "inherits": "^2.0.3",
+    "mocha": "^5.2.0",
+    "ms": "^2.1.1"
+  },
+  "bugs": {
+    "url": "https://github.com/KalandarovJamshid01/Node-Docer-Jetkins/issues"
+  },
+  "homepage": "https://github.com/KalandarovJamshid01/Node-Docer-Jetkins#readme"
+}
